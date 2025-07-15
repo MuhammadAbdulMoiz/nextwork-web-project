@@ -13,7 +13,7 @@ Welcome to my 7‑Day DevOps journey! Over this week, I’ll design, build, and 
 | **Day 2** | Connect GitHub repo | Link code repository to the cloud |
 | **Day 3** | Manage dependencies | Use AWS CodeArtifact to store packages |
 | **Day 4** | Build automation | Package the app with AWS CodeBuild |
-| **Day 5** | Custom build specs | Write and refine buildspec.yml |
+| **Day 5** | Custom build specs | Deploy a web app with CodeDeploy |
 | **Day 6** | Infrastructure as code | Automate setup via CloudFormation |
 | **Day 7** | CI/CD orchestration | Integrate AWS CodePipeline for end‑to‑end deployment |
 
