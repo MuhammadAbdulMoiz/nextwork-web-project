@@ -37,6 +37,18 @@ Before starting, make sure you have:
 
 ---
 
+## ✅ Services Used 
+- Amazon EC2 – For creating and managing the dev environment
+- AWS IAM – For securely managing roles and permissions
+- AWS CodeArtifact – To store and manage build dependencies
+- AWS CodeBuild – For building and packaging the Java application
+- AWS CodeDeploy – To automate app deployments to EC2
+- AWS CodePipeline – To orchestrate the CI/CD workflow
+- AWS CloudFormation – For automating infrastructure provisioning
+- AWS CodeConnect – To securely connect GitHub repositories to AWS services
+
+---
+
 ## 📂 Repo Structure (Suggested)
 
 ```
